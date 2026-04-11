@@ -1,0 +1,49 @@
+﻿# Python
+backend/venv/
+backend/__pycache__/
+backend/**/__pycache__/
+backend/**/*.pyc
+backend/.env
+backend/.env.production
+backend/staticfiles/
+backend/mediafiles/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.local
+frontend/.vite_cache/
+frontend/.vite/
+
+# Docker
+*.log
+docker-compose.override.yml
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Python cache
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Secrets
+*.pem
+*.key
+.env.local
+.env.*.local
+
+# Screenshots (optional - remove this line if you want to commit them)
+# screenshots/
+
+# Skills file (personal - remove to commit)
+# SKILLS_LEARNED.md
