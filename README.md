@@ -47,7 +47,7 @@
 |------------|-------------|
 | ![Timesheets](screenshots/timesheets.png) | ![Admin](screenshots/admin.png) |
 
-> 📸 Add screenshots by creating a `/screenshots` folder in the root and capturing your running app.
+
 
 ---
 
