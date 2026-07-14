@@ -12,9 +12,7 @@
 ![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
-
-> **Built with love by Dev Kenya — Emmanuel M. Jesse**
-> *Full-Stack Developer | Nairobi, Kenya*
+### Production-Ready Employee Time & Attendance Management System
 
 ---
 
