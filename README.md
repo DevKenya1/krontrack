@@ -17,22 +17,8 @@
 ---
 
 <!--
-  SCREENSHOTS SECTION
-  Replace the placeholder blocks below with actual screenshots of your app.
-  Recommended: Use a tool like Lightshot, Snipping Tool, or browser DevTools
-  to capture these screens, then add the images to a /screenshots folder.
+### Production-Ready Employee Time & Attendance Management System
 
-  Suggested screenshots to capture:
-  1. Login page (light gradient background, Krontrack logo)
-  2. Dashboard (clock-in button, metric cards, PTO balances)
-  3. Timesheets page (list view with status badges)
-  4. Leave & PTO page (balance cards + request form)
-  5. Admin page (employee table)
-  6. Sidebar collapsed view
-
-  Example:
-  ![Login](screenshots/login.png)
-  ![Dashboard](screenshots/dashboard.png)
 -->
 
 ### Screenshots
